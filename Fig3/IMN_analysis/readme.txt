@@ -1,0 +1,5 @@
+1. Open "Inequation_solution_and_plot" and open the "IMN_xxx stub_to MATLAB.nb" file in Wolfram Mathematica and run it to get the solutions for the inequation (14) introduced in the manuscript for both single-stub and double-stub cases.
+2. The solutions are saved in different .txt files. Open the "Mathematica-parse_Smithchart_plot_x.m" file in MATLAB to plot the impedance matching capability plot in both Smith chart and Cartesian coordinates.
+3. To replicate the IMN process for a given double-stub IMN configuration as illustrated in Fig. 3a, open the "IMN process" folder and open the "Find_load_circle.nb" file in Mathematica to find the solution and save as the .txt file. Then open the "IMN_process_demonstration.m" file to get the five impedance circles on the Smith chart as shown in Fig. 3c.
+4. To get the line curves of area percentage as functions of unit segment length and frequency as shown in Fig. 3e,f, open the "Area_calculation" folder and look for certain section and run the codes with the corresponding solutions derived from Mathematica.
+
